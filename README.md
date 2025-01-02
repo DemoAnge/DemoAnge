@@ -98,7 +98,7 @@ InvControl</h3>
 <p>
 <p>Due to institutional security policies, no further information can be provided.</p>
 </p>
-<p>I participated in the development of a web system for the financial institution “Cooperativa de Ahorro y Crédito Mushuc Runa Ltda.” I served as programming support, collaborating in the development and correction of modules to ensure their correct operation, and also served as network support.</p>
+<p>Development support of a web application for the company “Mushuc Runa Ltda.” to control document management and access restrictions in the different departments.</p>
 </div>
                                                                                       
 </td>       
