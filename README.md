@@ -8,16 +8,16 @@
 
 <hr>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=515776&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+an+Software+Engineer;Junior+Developer;Full+Stack+Developer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=515776&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+an+Software+Engineer;Full+Stack+Developer"></a>
 </p>
 
-## About Me
+## About Mes
 
 
 
 
-Full Stack Developer | Software Engineering Student
-Hi I'm Angel, passionate about creating dynamic interfaces and robust backend systems, with experience in scalable and innovative applications. I specialize in modern technologies and best practices, collaborating with teams to deliver secure and effective solutions. Final-year Software Engineering student with a growing interest in cybersecurity and Linux-based networks. Driven to contribute to organizational success through expertise in Full Stack development and continuous learning.
+Full Stack Developer | Software Engineer
+Hi, I'm Angel. I specialize in building scalable web applications, combining modern frontend frameworks with solid backend architectures. Passionate about clean code, performance optimization, and system design. I enjoy solving complex problems and turning ideas into reliable, production-ready solutions. 
 <hr>
 
 ## :alien: Follow me
