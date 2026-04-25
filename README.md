@@ -17,6 +17,8 @@
 
 
 Full Stack Developer | Software Engineer
+
+
 Hi, I'm Angel. I specialize in building scalable web applications, combining modern frontend frameworks with solid backend architectures. Passionate about clean code, performance optimization, and system design. I enjoy solving complex problems and turning ideas into reliable, production-ready solutions. 
 <hr>
 
