@@ -1,14 +1,25 @@
 <div align="center">
-<h1 align="center">Hello, I'm <a href="https://profiledarkangel.netlify.app/" style="background: linear-gradient(270deg, #8e2de2 10%, #00c6ff 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Angel Pilamunga</a> 👋</h1>
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+  <img src="./img/aaaa.png" width="260" alt="Angel Pilamunga"/>
+</td>
+<td width="60%" align="center" valign="middle">
+  <a href="https://profiledarkangel.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=420&height=60&lines=Angel+Pilamunga" alt="Angel Pilamunga"/>
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&color=515776&size=22&center=true&vCenter=true&width=420&height=80&lines=Full-Stack+Software+Developer;Angular+%C2%B7+React+%C2%B7+C%23+%C2%B7+Django" alt="Typing SVG"/>
+  </a>
+</td>
+</tr>
+</table>
+
 </div>
-<p align="center">
-  <img src="./img/aaaa.png" width="320" alt="Angel Pilamunga"/>
-</p>
 
 <hr>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&color=515776&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer;Angular+%C2%B7+React+%C2%B7+C%23+%C2%B7+Django" alt="Typing SVG"></a>
-</p>
 
 ## About Me
 
