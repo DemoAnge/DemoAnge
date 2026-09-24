@@ -1,21 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-  <img src="./img/aaaa.png" width="260" alt="Angel Pilamunga"/>
-</td>
-<td width="60%" align="center" valign="middle">
-  <a href="https://profiledarkangel.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=420&height=60&lines=Angel+Pilamunga" alt="Angel Pilamunga"/>
-  </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&color=515776&size=22&center=true&vCenter=true&width=420&height=80&lines=Full-Stack+Software+Developer;Angular+%C2%B7+React+%C2%B7+C%23+%C2%B7+Django" alt="Typing SVG"/>
-  </a>
-</td>
-</tr>
-</table>
+<a href="https://profiledarkangel.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=420&height=60&lines=Angel+Pilamunga" alt="Angel Pilamunga"/>
+</a>
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&color=515776&size=22&center=true&vCenter=true&width=420&height=80&lines=Full-Stack+Software+Developer;Angular+%C2%B7+React+%C2%B7+C%23+%C2%B7+Django" alt="Typing SVG"/>
+</a>
 
 </div>
 
